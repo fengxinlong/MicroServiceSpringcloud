@@ -1,0 +1,4 @@
+com\bohua\springcloud\service\DeptClientService.class
+com\bohua\springcloud\service\DeptClientServiceFallbackFactory.class
+com\bohua\springcloud\service\DeptClientServiceFallbackFactory$1.class
+com\bohua\springcloud\entities\Dept.class
